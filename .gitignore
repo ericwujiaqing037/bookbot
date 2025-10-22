@@ -1,1 +1,4 @@
 /books
+__pycache__/
+website_content.txt
+.DS_Store
